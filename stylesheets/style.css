@@ -17,6 +17,16 @@ body {
   padding-top: 20px;
 }
 
+.pager-prev {
+  text-align: left;
+}
+
+.navbar-center{
+  text-align: center;
+
+
+}
+
 #content > .container {
   width: auto;
   max-width: 1024px;

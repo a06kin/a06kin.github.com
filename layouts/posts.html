@@ -20,15 +20,13 @@ layout : default
       {{{ page.content }}}
     </div>
     <hr>
-    <ul class="pager">
+    <ul class="pager pager-prev">
       {{# page.previous }}
         <li class="prev"><a href="{{ url }}" title="{{ title }}">&larr; Previous</a></li>
       {{/ page.previous }}
       {{^ page.previous }}
         <li class="prev disabled"><a>&larr; Previous</a></li>
       {{/ page.previous }}
-
-        <li><a href="{{urls.base_path}}archive">Archive</a></li>
 
       {{# page.next }}
         <li class="next"><a href="{{ url }}" title="{{ title }}">Next &rarr;</a></li>

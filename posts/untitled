@@ -1,0 +1,13 @@
+---
+title: Hello
+date: "2014-02-08"
+description:
+tags: ["apple", "orange"]
+categories : ["random"]
+img: 250x250.gif
+summ: То что под картинкой
+---
+
+
+Пример
+img  - Полное имя картинки в папке media

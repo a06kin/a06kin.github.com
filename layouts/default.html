@@ -31,9 +31,15 @@
           <a class="navbar-brand" href="{{urls.base_path}}">{{ data.title }}</a>
         </div>
         <ul class="nav navbar-nav navbar-right">
-          {{# data.navigation?to__root }}
-            {{> pages_list }}
-          {{/ data.navigation?to__root }}
+          <li>
+            <a href="/oeuvre">Творчество</a>
+          </li>
+          <li>
+            <a href="/tags">Тэги</a>
+          </li>
+          <li>
+            <a href="/about">Информация</a>
+          </li>
         </ul>
       </div>
     </div> <!-- navbar -->

@@ -6,8 +6,10 @@ layout : default
     {{#collection.paginator}}
       <div class="{{ collection.resource_name}} col-md-4">
         <center>
-          {{#img}}<img src="{{img}}">{{/img}}
-          {{^img}}<img src="http://www.placehold.it/250x250">{{/img}}
+          <a href="{{url}}">
+            {{#img}}<img src="{{urls.media}}/{{img}}">{{/img}}
+            {{^img}}<img src="{{urls.media}}/250x250.gif">{{/img}}
+          </a>
         </center>
         <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date right">{{ date }}</span></h3>
 
