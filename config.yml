@@ -1,0 +1,7 @@
+posts:
+  sort : [date, desc]
+  paginator:
+    enable: true
+    per_page: 6
+bootstrap:
+  use: ignore

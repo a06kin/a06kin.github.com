@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+#content {
+  min-height: 100%;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+}
+
+.row{
+  padding-top: 20px;
+}
+
+#content > .container {
+  width: auto;
+  max-width: 1024px;
+  padding-top: 60px;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.navbar-default{
+	background-color: #ffffff;
+}
+
+.right{
+	float: right;
+}
+
+.left{
+	float: left;
+}
+
+.posts {
+  min-height: 400px;
+}
+

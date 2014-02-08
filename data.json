@@ -1,0 +1,17 @@
+{
+  "title": "db.",
+  "tagline": "db.",
+  "author": {
+    "github": "a06kin",
+    "feedburner": "feedname",
+    "name": "6urik a06kin",
+    "email": "a06kin@gmail.com"
+  },
+  "navigation": [
+    "archive",
+    "tags",
+    "categories",
+    "pages",
+    "about"
+  ]
+}

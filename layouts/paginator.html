@@ -1,0 +1,34 @@
+---
+layout : default
+---
+
+<div class="row">
+    {{#collection.paginator}}
+      <div class="{{ collection.resource_name}} col-md-4">
+        <center>
+          {{#img}}<img src="{{img}}">{{/img}}
+          {{^img}}<img src="http://www.placehold.it/250x250">{{/img}}
+        </center>
+        <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date right">{{ date }}</span></h3>
+
+        {{ summ }}
+
+        <div class="more">
+          <a href="{{url}}" class="btn btn-small">read more..</a>
+        </div>
+      </div>
+    {{/collection.paginator}}
+
+    <div class="col-md-12">
+      <ul class="pager">
+      {{#collection.paginator_navigation}}
+        {{#is_active_page}}
+          <li class="active"><a href="{{url}}">{{name}}</a></li>
+        {{/is_active_page}}
+        {{^is_active_page}}
+          <li><a href="{{url}}">{{name}}</a></li>
+        {{/is_active_page}}
+      {{/collection.paginator_navigation}}
+      </ul>
+    </div>
+</div>
