@@ -3,32 +3,25 @@ title:
 description:
 ---
 
-{{# posts.paginator }}
-<div class="post col-md-4">
+{{# posts.all }}
+<div class="post col-md-4" data-scrollreveal="enter top after {{sec}}s">
   <center>
     <a href="{{url}}">
-      {{#img}}<img src="{{urls.media}}/{{img}}">{{/img}}
-      {{^img}}<img src="{{urls.media}}/250x250.gif">{{/img}}
+      {{#img}}<img src="{{urls.media}}/{{img}}" data-scrollreveal="enter left after 1.1s">{{/img}}
+      {{^img}}<img src="{{urls.media}}/250x250.gif" data-scrollreveal="enter left after 1.1s">{{/img}}
     </a> 
   </center>
-  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date right">{{ date }}</span></h3>
+  <h3 class="title" data-scrollreveal="enter right after 1.1s">
+    <a href="{{url}}">{{title}}</a>
+    <span class="date right">{{ date }}</span>
+  </h3>
 
-  {{ summ }}
+  <div data-scrollreveal="enter left after 1.1s">
+    {{ summ }}
+  </div>
 
   <div class="more">
     <a href="{{url}}" class="btn btn-small">read more...</a>
   </div>
 </div>
-{{/ posts.paginator }}
-<div class="col-md-12">
-  <ul class="pager">
-  {{#posts.paginator_navigation}}
-    {{#is_active_page}}
-      <li class="active"><a href="{{url}}">{{name}}</a></li>
-    {{/is_active_page}}
-    {{^is_active_page}}
-      <li><a href="{{url}}">{{name}}</a></li>
-    {{/is_active_page}}
-  {{/posts.paginator_navigation}}
-  </ul>
-</div>
+{{/ posts.all }}
