@@ -1,24 +1,30 @@
 ---
 title:  Творчество
 description:
+
 ---
 
 {{# posts.categories.oeuvre}}
-<div class="post col-md-4">
 	{{# posts?to_posts }}
-		<center>
+	<div class="post col-md-4" data-scrollreveal="enter top after {{sec}}s">
+		<center data-scrollreveal="enter left after 1.1s" class="cropImgWrap">
 		    <a href="{{url}}">
-		      {{#img}}<img src="{{urls.media}}/{{img}}">{{/img}}
+		      {{#img}}<img src="{{urls.media}}/{{img}}" class="cropImg">{{/img}}
 		      {{^img}}<img src="{{urls.media}}/250x250.gif">{{/img}}
 		    </a> 
 	  	</center>
-	  	<h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date right">{{ date }}</span></h3>
+	  	<h3 class="title" data-scrollreveal="enter right after 1.1s">
+	  		<a href="{{url}}">{{title}}</a> 
+	  		<span class="date right">{{ date }}</span>
+		</h3>
 
+		<div data-scrollreveal="enter left after 1.1s">
 		  {{ summ }}
+		</div data-scrollreveal="enter left after 1.1s">
 
-		  <div class="more">
-		    <a href="{{url}}" class="btn btn-small">read more...</a>
-		  </div>
+  		<div class="more" data-scrollreveal="enter left after 1.3s">
+	    	<a href="{{url}}" class="btn btn-small">read more...</a>
+	  	</div>
+  	</div>
   	{{/ posts?to_posts }}
-</div>
 {{/ posts.categories.oeuvre }}

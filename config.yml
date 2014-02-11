@@ -3,5 +3,5 @@ posts:
   paginator:
     enable: true
     per_page: 6
-bootstrap:
+ignore:
   use: ignore

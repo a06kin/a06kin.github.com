@@ -7,7 +7,7 @@ layout : default
       <div class="{{ collection.resource_name}} col-md-4">
         <center>
           <a href="{{url}}">
-            {{#img}}<img src="{{urls.media}}/{{img}}">{{/img}}
+            {{#img}}<img src="{{urls.media}}/{{img}}" class="cropImg">{{/img}}
             {{^img}}<img src="{{urls.media}}/250x250.gif">{{/img}}
           </a>
         </center>

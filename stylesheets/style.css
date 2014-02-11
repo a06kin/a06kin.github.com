@@ -30,7 +30,7 @@ body {
 #content > .container {
   width: auto;
   max-width: 1024px;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 .container .text-muted {
@@ -49,6 +49,31 @@ body {
 	float: left;
 }
 
-.posts .post {
+.posts, .post {
   min-height: 400px;
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.cropImg{
+
+}
+
+.cropImgWrap{
+  max-height: 250px;
+  /*max-width: 250px;*/
+  min-height: 250px;
+  /*min-width: 250px;*/
+  overflow: hidden;
+}
+
+.btn{
+  padding-top: 6px;
+  padding-right: 12px;
+  padding-bottom: 6px;
+  padding-left: 0px;
+}
+
+.page-header a{
+  color: #777777;
 }
