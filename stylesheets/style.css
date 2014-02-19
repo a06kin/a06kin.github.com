@@ -2,6 +2,7 @@ html,
 body {
   height: 100%;
   /* The html and body elements cannot have any padding or margin. */
+  background-color: #fbfbfb;
 }
 
 #content {
@@ -50,9 +51,14 @@ body {
 }
 
 .posts, .post {
-  min-height: 400px;
+  min-height: 300px;
   max-height: 400px;
   overflow: hidden;
+  background-color: white;
+  border: 1px #eee solid;
+  margin: 5px;
+  padding: 15px;
+  width: 300px;
 }
 
 .cropImg{
@@ -60,9 +66,9 @@ body {
 }
 
 .cropImgWrap{
-  max-height: 250px;
+  max-height: 200px;
   /*max-width: 250px;*/
-  min-height: 250px;
+  min-height: 200px;
   /*min-width: 250px;*/
   overflow: hidden;
 }
@@ -76,4 +82,9 @@ body {
 
 .page-header a{
   color: #777777;
+}
+
+blockquote p{
+  font-size: 16px;
+  color: #999999;
 }
