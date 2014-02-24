@@ -2,3 +2,28 @@
 title:  Информация
 description:
 ---
+
+<ul id="infoTab" class="nav nav-tabs">
+  <li class="active"><a href="#busy">Свободно/занятое время</a></li>
+  <li><a href="#profile">Profile</a></li>
+  <li><a href="#messages">Messages</a></li>
+</ul>
+
+<div class="tab-content">
+  <div class="tab-pane active" id="busy">
+  	<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=768&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=a06kin%40gmail.com&amp;color=%23182C57&amp;src=k5qlqmh41cchnp58oftsabt8ls%40group.calendar.google.com&amp;color=%23875509&amp;ctz=Europe%2FRiga" style=" border-width:0 " width="1024" height="768" frameborder="0" scrolling="no"></iframe>
+  </div>
+  <div class="tab-pane" id="profile">
+  	
+  </div>
+  <div class="tab-pane" id="messages">
+  	
+  </div>
+</div>
+
+<script>
+$('#infoTab a').click(function (e) {
+  e.preventDefault()
+  $(this).tab('show')
+})
+</script>

@@ -2,7 +2,7 @@
 title: Прокрастинация
 date: "2014-02-24"
 tags: ["write"]
-categories : ["random"]
+categories : []
 img: 200x200.gif
 summ: Как правильно !прокрастинировать
 sec: 0.8
