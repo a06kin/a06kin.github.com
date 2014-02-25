@@ -3,15 +3,30 @@ title: Тэги
 description:
 ---
 
-<ul class="tag_box inline">
-{{# posts.tags.all }}
-  {{> tags_list }}
-{{/ posts.tags.all }}
+
+<ul id="tagTab" class="nav nav-tabs">
+	{{# posts.tags.all }}
+		<li><a href="#{{name}}">{{name}} <span>{{count}}</span></a></li>
+	{{/ posts.tags.all }}
 </ul>
 
+<div class="tab-content">
+<br>
+<br>
 {{# posts.tags.all }}
-  <h3 id="{{name}}-ref">{{name}}</h3>
-  {{# posts?to_posts }}
-    <li><a href="{{url}}">{{title}}</a></li>
-  {{/ posts?to_posts }}
+	<div class="tab-pane" id="{{name}}">
+  	  {{# posts?to_posts }}
+	    <li><a href="{{url}}">{{title}}</a></li>
+	  {{/ posts?to_posts }}
+	</div>
 {{/ posts.tags.all }}
+</div>
+
+<script>
+	$('#tagTab a').click(function (e) {
+	  e.preventDefault()
+	  $(this).tab('show')
+	});
+
+	$('#tagTab a:first').tab('show');
+</script>

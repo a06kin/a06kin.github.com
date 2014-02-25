@@ -1,7 +1,7 @@
 ---
 title: 1лука
 date: "2014-02-25"
-tags: ["Л.И."]
+tags: ["Л", "стихи"]
 categories : [oeuvre"]
 summ: Разлука
 sec: 0.7
