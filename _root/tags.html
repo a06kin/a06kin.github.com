@@ -6,7 +6,7 @@ description:
 
 <ul id="tagTab" class="nav nav-tabs">
 	{{# posts.tags.all }}
-		<li><a href="#{{name}}">{{name}} <span>{{count}}</span></a></li>
+		<li><a href="#{{name}}" >{{name}} <span>{{count}}</span></a></li>
 	{{/ posts.tags.all }}
 </ul>
 
@@ -28,5 +28,11 @@ description:
 	  $(this).tab('show')
 	});
 
-	$('#tagTab a:first').tab('show');
+	now = $(location).attr('href');
+
+	if (now.indexOf('#') != -1){
+		show = now.substr(now.indexOf('#') + 1);
+		$('#tagTab a[href="#' + show + '"]').tab('show');
+
+	}else $('#tagTab a:first').tab('show');
 </script>

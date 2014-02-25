@@ -8,7 +8,9 @@ layout : default
 {{/ page.author?to_data }}
 
 <div class="page-header">
-  <h1>{{ page.title }} {{# page.tags }} <small>[ <a href="{{ url }}">{{ name }}</a> ]</small>{{/ page.tags }} <small class='date'> {{page.date}} </small></h1>
+  <h1>
+    {{ page.title }} {{# page.tags }} <small>[ <a href="/tags#{{ name }}">{{ name }}</a> ]</small>{{/ page.tags }} <small class='date'> {{page.date}} </small>
+  </h1>
 </div>
 
 <div class="row post-full">
