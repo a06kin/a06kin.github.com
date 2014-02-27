@@ -5,7 +5,7 @@ tags: ["Л"]
 categories : []
 summ: Предположение
 sec: 0.7
-img: 
+img: LPred200.jpg
 ---
 
 1.	Прожить 3 дня без минуты сна
