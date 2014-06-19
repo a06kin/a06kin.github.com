@@ -4,7 +4,6 @@ date: "2014-03-03"
 tags: ["Л"]
 categories : ["Творчество", "oeuvre"]
 summ: Весь секрет жизни
-sec: 0.7
 img: pSearch200.jpg
 ---
 

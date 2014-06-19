@@ -4,7 +4,6 @@ date: "2014-02-08"
 tags: ["видео"]
 categories : ["Творчество", "oeuvre"]
 summ: wall-animation by ICHE
-sec: 0.7
 img: CIRCLE_CYCLE.jpg
 ---
 

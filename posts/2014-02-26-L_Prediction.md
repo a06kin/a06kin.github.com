@@ -4,7 +4,6 @@ date: "2014-02-26"
 tags: ["Л"]
 categories : []
 summ: Предположение
-sec: 0.7
 img: LPred200.jpg
 ---
 
