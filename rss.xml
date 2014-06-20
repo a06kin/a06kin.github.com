@@ -75,223 +75,223 @@
     <item>
       <title>Index</title>
       <link>/</link>
-      <description>&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.8s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+      <description>&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-03-18-vesna"&gt;
       &lt;img src="/assets/media/200x200.gif" class="cropImg"&gt;
       
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-03-18-vesna"&gt;&#x412;&#x435;&#x441;&#x43D;&#x430;&lt;/a&gt;
     &lt;span class="date right"&gt;2014-03-18&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x421;&#x430;&#x43C;&#x43E;&#x435; &#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x436;&#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x435;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-03-18-vesna" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-27-peoplesearch"&gt;
       &lt;img src="/assets/media/pSearch200.jpg" class="cropImg"&gt;
       
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-27-peoplesearch"&gt;People Search&lt;/a&gt;
     &lt;span class="date right"&gt;2014-03-03&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x412;&#x435;&#x441;&#x44C; &#x441;&#x435;&#x43A;&#x440;&#x435;&#x442; &#x436;&#x438;&#x437;&#x43D;&#x438;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-27-peoplesearch" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-26-l_prediction"&gt;
       &lt;img src="/assets/media/LPred200.jpg" class="cropImg"&gt;
       
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-26-l_prediction"&gt;L_Prediction&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-26&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x41F;&#x440;&#x435;&#x434;&#x43F;&#x43E;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x435;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-26-l_prediction" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-25-separation"&gt;
       
       &lt;img src="/assets/media/200x200.gif"&gt;
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-25-separation"&gt;1&#x43B;&#x443;&#x43A;&#x430;&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-25&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x420;&#x430;&#x437;&#x43B;&#x443;&#x43A;&#x430;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-25-separation" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.8s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-24-procrastinate"&gt;
       &lt;img src="/assets/media/Procras200.jpg" class="cropImg"&gt;
       
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-24-procrastinate"&gt;&#x41F;&#x440;&#x43E;&#x43A;&#x440;&#x430;&#x441;&#x442;&#x438;&#x43D;&#x430;&#x446;&#x438;&#x44F;&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-24&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x41A;&#x430;&#x43A; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E; !&#x43F;&#x440;&#x43E;&#x43A;&#x440;&#x430;&#x441;&#x442;&#x438;&#x43D;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x442;&#x44C;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-24-procrastinate" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.8s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-24-sosed"&gt;
       &lt;img src="/assets/media/200x200.gif" class="cropImg"&gt;
       
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-24-sosed"&gt;&#x421;&#x43E;&#x441;&#x435;&#x434;&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-24&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x41E;&#x43D; &#x441;&#x43E;&#x43C;&#x43D;&#x435;&#x432;&#x430;&#x43B;&#x441;&#x44F;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-24-sosed" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-20-chybrick"&gt;
       
       &lt;img src="/assets/media/200x200.gif"&gt;
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-20-chybrick"&gt;&#x427;&#x443;&#x431;&#x440;&#x438;&#x43A;&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-20&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x438; &#x440;&#x43E;&#x436;&#x43A;&#x438; &#x438;&#x437;-&#x43F;&#x43E;&#x434; &#x448;&#x430;&#x43F;&#x43A;&#x438; &#x437;&#x430;&#x431;&#x430;&#x432;&#x43D;&#x43E; &#x442;&#x43E;&#x440;&#x447;&#x430;&#x442;)
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-20-chybrick" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-18-noone"&gt;
       
       &lt;img src="/assets/media/200x200.gif"&gt;
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-18-noone"&gt;&#x412;&#x438;&#x434;&#x438;&#x43C;&#x43E;&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-18&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x412;&#x438;&#x434;&#x438;&#x43C;&#x43E;, &#x43D;&#x435; &#x443; &#x43A;&#x43E;&#x433;&#x43E; &#x43D;&#x435; &#x432;&#x44B;&#x448;&#x43B;&#x43E;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-18-noone" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-08-do"&gt;
       &lt;img src="/assets/media/do.jpg" class="cropImg"&gt;
       
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-08-do"&gt;Do&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-08&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     DO (Dari)
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-08-do" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-08-l"&gt;
       
       &lt;img src="/assets/media/200x200.gif"&gt;
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-08-l"&gt;&#x412;&#x43F;&#x435;&#x447;&#x430;&#x442;&#x43B;&#x435;&#x43D;&#x438;&#x435;&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-08&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     &#x41F;&#x43E;&#x441;&#x43B;&#x435; &#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x433;&#x43E; &#x43F;&#x435;&#x440;&#x435;&#x440;&#x44B;&#x432;&#x430;
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-08-l" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-  &lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
     &lt;a href="/posts/2014-02-08-circle_cycle"&gt;
       &lt;img src="/assets/media/CIRCLE_CYCLE.jpg" class="cropImg"&gt;
       
     &lt;/a&gt; 
   &lt;/center&gt;
-  &lt;h4 class="title" data-scrollreveal="enter right after 1.2s"&gt;
+  &lt;h4 class="title" &gt;
     &lt;a href="/posts/2014-02-08-circle_cycle"&gt;CIRCLE/CYCLE&lt;/a&gt;
     &lt;span class="date right"&gt;2014-02-08&lt;/span&gt;
   &lt;/h4&gt;
 
-  &lt;div data-scrollreveal="enter left after 1.1s"&gt;
+  &lt;div &gt;
     wall-animation by ICHE
   &lt;/div&gt;
 
-  &lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  &lt;div class="more" &gt;
     &lt;a href="/posts/2014-02-08-circle_cycle" class="btn btn-small"&gt;read more...&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -349,163 +349,163 @@ $('#infoTab a').click(function (e) {
     <item>
       <title>&#x422;&#x432;&#x43E;&#x440;&#x447;&#x435;&#x441;&#x442;&#x432;&#x43E;</title>
       <link>/oeuvre</link>
-      <description>	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+      <description>	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-02-18-noone"&gt;
 		      
 		      &lt;img src="/assets/media/200x200.gif"&gt;
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-02-18-noone"&gt;&#x412;&#x438;&#x434;&#x438;&#x43C;&#x43E;&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-02-18&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  &#x412;&#x438;&#x434;&#x438;&#x43C;&#x43E;, &#x43D;&#x435; &#x443; &#x43A;&#x43E;&#x433;&#x43E; &#x43D;&#x435; &#x432;&#x44B;&#x448;&#x43B;&#x43E;
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-02-18-noone" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
-	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-02-27-peoplesearch"&gt;
 		      &lt;img src="/assets/media/pSearch200.jpg" class="cropImg"&gt;
 		      
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-02-27-peoplesearch"&gt;People Search&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-03-03&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  &#x412;&#x435;&#x441;&#x44C; &#x441;&#x435;&#x43A;&#x440;&#x435;&#x442; &#x436;&#x438;&#x437;&#x43D;&#x438;
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-02-27-peoplesearch" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
-	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-02-08-do"&gt;
 		      &lt;img src="/assets/media/do.jpg" class="cropImg"&gt;
 		      
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-02-08-do"&gt;Do&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-02-08&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  DO (Dari)
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-02-08-do" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
-	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-02-08-circle_cycle"&gt;
 		      &lt;img src="/assets/media/CIRCLE_CYCLE.jpg" class="cropImg"&gt;
 		      
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-02-08-circle_cycle"&gt;CIRCLE/CYCLE&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-02-08&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  wall-animation by ICHE
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-02-08-circle_cycle" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
-	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.8s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-02-24-sosed"&gt;
 		      &lt;img src="/assets/media/200x200.gif" class="cropImg"&gt;
 		      
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-02-24-sosed"&gt;&#x421;&#x43E;&#x441;&#x435;&#x434;&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-02-24&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  &#x41E;&#x43D; &#x441;&#x43E;&#x43C;&#x43D;&#x435;&#x432;&#x430;&#x43B;&#x441;&#x44F;
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-02-24-sosed" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
-	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.8s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-03-18-vesna"&gt;
 		      &lt;img src="/assets/media/200x200.gif" class="cropImg"&gt;
 		      
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-03-18-vesna"&gt;&#x412;&#x435;&#x441;&#x43D;&#x430;&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-03-18&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  &#x421;&#x430;&#x43C;&#x43E;&#x435; &#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x436;&#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x435;
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-03-18-vesna" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
-	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-02-08-l"&gt;
 		      
 		      &lt;img src="/assets/media/200x200.gif"&gt;
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-02-08-l"&gt;&#x412;&#x43F;&#x435;&#x447;&#x430;&#x442;&#x43B;&#x435;&#x43D;&#x438;&#x435;&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-02-08&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  &#x41F;&#x43E;&#x441;&#x43B;&#x435; &#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x433;&#x43E; &#x43F;&#x435;&#x440;&#x435;&#x440;&#x44B;&#x432;&#x430;
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-02-08-l" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
-	&lt;div class="post col-md-4" data-scrollreveal="enter top after 0.7s"&gt;
-		&lt;center data-scrollreveal="enter left after 1.1s" class="cropImgWrap"&gt;
+	&lt;div class="post col-md-4" &gt;
+		&lt;center &gt;
 		    &lt;a href="/posts/2014-02-20-chybrick"&gt;
 		      
 		      &lt;img src="/assets/media/200x200.gif"&gt;
 		    &lt;/a&gt; 
 	  	&lt;/center&gt;
-	  	&lt;h4 class="title" data-scrollreveal="enter right after 1.1s"&gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/posts/2014-02-20-chybrick"&gt;&#x427;&#x443;&#x431;&#x440;&#x438;&#x43A;&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-02-20&lt;/span&gt;
 		&lt;/h4&gt;
 
-		&lt;div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;div &gt;
 		  &#x438; &#x440;&#x43E;&#x436;&#x43A;&#x438; &#x438;&#x437;-&#x43F;&#x43E;&#x434; &#x448;&#x430;&#x43F;&#x43A;&#x438; &#x437;&#x430;&#x431;&#x430;&#x432;&#x43D;&#x43E; &#x442;&#x43E;&#x440;&#x447;&#x430;&#x442;)
-		&lt;/div data-scrollreveal="enter left after 1.1s"&gt;
+		&lt;/div &gt;
 
-  		&lt;div class="more" data-scrollreveal="enter left after 1.3s"&gt;
+  		&lt;div class="more" &gt;
 	    	&lt;a href="/posts/2014-02-20-chybrick" class="btn btn-small"&gt;read more...&lt;/a&gt;
 	  	&lt;/div&gt;
   	&lt;/div&gt;
