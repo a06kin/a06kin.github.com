@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Информация</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Шурик a06kin">
+    <link href='http://fonts.googleapis.com/css?family=Anonymous+Pro&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+
+    <!-- Le styles -->
+<link href='/assets/stylesheets/bootstrap.min-2bc12d1c474cc5c48bb1c308562bd768.css' type='text/css' rel='stylesheet' media='all'>
+<link href='/assets/stylesheets/style-86eaa31f77c8c93f7418fffb9d5f968d.css' type='text/css' rel='stylesheet' media='all'>
+<script src='/assets/javascripts/jquery-2.1.0.min-5ca7582261c421482436dfdf3af9bffe.js'></script>
+<script src='/assets/javascripts/scrollReveal-d8ee91df6d72f92bf59d7461219e544d.js'></script>
+<script src='/assets/javascripts/loggly.tracker-a12a55687b55ea2509882434776fce3b.js'></script>
+<script src='/assets/javascripts/bootstrap-c1eff7b72ea8c15a787bd03b63d82f08.js'></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    
+    <script>
+      var _LTracker = _LTracker || [];
+      _LTracker.push({'logglyKey': '9dbac5c8-925c-4602-9156-686dae4d13bc' });
+    </script>
+  </head>
+
+  <body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation" data-scrollreveal="enter from the top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">db.</a>
+        </div>
+        <ul class="nav navbar-nav navbar-right" data-scrollreveal="enter from the top after 0.5s">
+          <li>
+            <a href="/oeuvre">Творчество</a>
+          </li>
+          <li>
+            <a href="/tags">Тэги</a>
+          </li>
+          <li>
+            <a href="/about">Информация</a>
+          </li>
+        </ul>
+      </div>
+    </div> <!-- navbar -->
+
+    <!-- Begin page content -->
+    <div id="content">
+      <div class="container">
+        <div class="page-header" data-scrollreveal="enter from the top after 0.7s">
+  <a href="/about">
+  	<h1>Информация <!--  --></h1> 
+  </a>
+</div>
+
+<div class="row">
+    <ul id="infoTab" class="nav nav-tabs">
+  <li class="active"><a href="#busy">Свободно/занятое время</a></li>
+</ul>
+
+<div class="tab-content">
+  <div class="tab-pane active" id="busy">
+  	<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=768&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=a06kin%40gmail.com&amp;color=%23182C57&amp;src=k5qlqmh41cchnp58oftsabt8ls%40group.calendar.google.com&amp;color=%23875509&amp;ctz=Europe%2FRiga" style=" border-width:0 " width="1024" height="768" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
+
+<script>
+$('#infoTab a').click(function (e) {
+  e.preventDefault()
+  $(this).tab('show')
+})
+</script>
+</div>
+
+      </div> <!-- container -->
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted">&copy; Шурик a06kin 2013
+          with help from <a href="http://ruhoh.com" target="_blank" title="The Definitive Technical Blogging Framework">ruhoh</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        </p>
+      </div>
+    </div>
+
+    
+  </body>
+  <script>
+    //simple text
+    _LTracker.push('open ' + document.URL);
+    //json
+    _LTracker.push({
+      'text': document.URL
+    });
+  </script>
+</html>

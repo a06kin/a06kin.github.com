@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>db.</title>
+    <description>db.</description>
+    <link/>
+    <pubDate>2014-06-20</pubDate>
+    <item>
+      <title>My Projects</title>
+      <link>/pages/my-projects</link>
+      <description>&lt;p&gt;MyProjects&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

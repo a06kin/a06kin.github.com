@@ -1,0 +1,90 @@
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+  background-color: #fbfbfb;
+}
+
+#content {
+  min-height: 100%;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+}
+
+.row{
+  padding-top: 20px;
+}
+
+.pager-prev {
+  text-align: left;
+}
+
+.navbar-center{
+  text-align: center;
+
+
+}
+
+#content > .container {
+  width: auto;
+  max-width: 1024px;
+  padding-top: 30px;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.navbar-default{
+	background-color: #ffffff;
+}
+
+.right{
+	float: right;
+}
+
+.left{
+	float: left;
+}
+
+.posts, .post {
+  min-height: 350px;
+  max-height: 400px;
+  overflow: hidden;
+  background-color: white;
+  border: 1px #eee solid;
+  margin: 5px;
+  padding: 15px;
+  width: 300px;
+}
+
+.cropImg{
+
+}
+
+.cropImgWrap{
+  max-height: 200px;
+  /*max-width: 250px;*/
+  min-height: 200px;
+  /*min-width: 250px;*/
+  overflow: hidden;
+}
+
+.btn{
+  padding-top: 6px;
+  padding-right: 12px;
+  padding-bottom: 6px;
+  padding-left: 0px;
+}
+
+.page-header a{
+  color: #777777;
+}
+
+blockquote p{
+  font-size: 16px;
+  color: #999999;
+}
