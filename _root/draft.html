@@ -1,0 +1,22 @@
+---
+title:  Черновики
+description:
+
+---
+
+{{# draft.all}}
+	<div class="draft col-md-4" >
+	  	<h4 class="title" >
+	  		<a href="{{url}}">{{title}}</a> 
+	  		<span class="date right">{{ date }}</span>
+		</h4>
+
+		<div >
+		  {{ summ }}
+		</div >
+
+		<div class="more" >
+	    	<a href="{{url}}" class="btn btn-small">read more...</a>
+	  	</div>
+		</div>
+{{/ draft.all }}
