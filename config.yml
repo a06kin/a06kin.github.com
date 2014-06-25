@@ -5,3 +5,5 @@ posts:
     per_page: 6
 ignore:
   use: ignore
+draft:
+  sort : [date, desc]
