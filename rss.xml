@@ -4,12 +4,16 @@
     <title>db.</title>
     <description>db.</description>
     <link/>
-    <pubDate>2014-06-20</pubDate>
+    <pubDate>2014-06-25</pubDate>
     <item>
       <title>Archive</title>
       <link>/archive</link>
       <description>
   &lt;h2&gt;2014&lt;/h2&gt;
+    &lt;h3&gt;June&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2014-06-24&lt;/span&gt; &amp;raquo; &lt;a href="/posts/2014-06-24-long-term_solutions"&gt;&#x414;&#x43B;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x44F;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;h3&gt;March&lt;/h3&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;span&gt;2014-03-18&lt;/span&gt; &amp;raquo; &lt;a href="/posts/2014-03-18-vesna"&gt;&#x412;&#x435;&#x441;&#x43D;&#x430;&lt;/a&gt;&lt;/li&gt;
@@ -35,6 +39,9 @@
       <description>
 &lt;ul class="tag_box inline"&gt;
   &lt;li&gt;
+    &lt;a href="/categories#&#x43D;&#x430;&#x434;&#x43E;-ref"&gt;&#x43D;&#x430;&#x434;&#x43E; &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;a href="/categories#oeuvre&amp;quot;-ref"&gt;oeuvre&amp;quot; &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -45,6 +52,10 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
+  &lt;h3&gt;&#x43D;&#x430;&#x434;&#x43E; (1)&lt;/h3&gt;
+  &lt;ul&gt;
+      &lt;li&gt;&lt;a href="/posts/2014-06-24-long-term_solutions"&gt;&#x414;&#x43B;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x44F;&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
   &lt;h3&gt;oeuvre&amp;quot; (1)&lt;/h3&gt;
   &lt;ul&gt;
       &lt;li&gt;&lt;a href="/posts/2014-02-25-separation"&gt;1&#x43B;&#x443;&#x43A;&#x430;&lt;/a&gt;&lt;/li&gt;
@@ -76,6 +87,26 @@
       <title>Index</title>
       <link>/</link>
       <description>&lt;div class="post col-md-4" &gt;
+  &lt;center &gt;
+    &lt;a href="/posts/2014-06-24-long-term_solutions"&gt;
+      &lt;img src="/assets/media/200x200.gif" class="cropImg"&gt;
+      
+    &lt;/a&gt; 
+  &lt;/center&gt;
+  &lt;h4 class="title" &gt;
+    &lt;a href="/posts/2014-06-24-long-term_solutions"&gt;&#x414;&#x43B;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x44F;&lt;/a&gt;
+    &lt;span class="date right"&gt;2014-06-24&lt;/span&gt;
+  &lt;/h4&gt;
+
+  &lt;div &gt;
+    &#x41D;&#x430; &#x431;&#x443;&#x434;&#x443;&#x449;&#x435;&#x435;
+  &lt;/div&gt;
+
+  &lt;div class="more" &gt;
+    &lt;a href="/posts/2014-06-24-long-term_solutions" class="btn btn-small"&gt;read more...&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="post col-md-4" &gt;
   &lt;center &gt;
     &lt;a href="/posts/2014-03-18-vesna"&gt;
       &lt;img src="/assets/media/200x200.gif" class="cropImg"&gt;
@@ -323,6 +354,9 @@
   
     &lt;li&gt;&lt;a href="/tags"&gt;&#x422;&#x44D;&#x433;&#x438;&lt;/a&gt;&lt;/li&gt;
   
+  
+    &lt;li&gt;&lt;a href="/draft"&gt;&#x427;&#x435;&#x440;&#x43D;&#x43E;&#x432;&#x438;&#x43A;&#x438;&lt;/a&gt;&lt;/li&gt;
+  
 &lt;/ul&gt;
 </description>
     </item>
@@ -515,6 +549,7 @@ $('#infoTab a').click(function (e) {
       <title>&#x422;&#x44D;&#x433;&#x438;</title>
       <link>/tags</link>
       <description>&lt;ul id="tagTab" class="nav nav-tabs"&gt;
+		&lt;li&gt;&lt;a href="#&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x44F;" &gt;&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x44F; &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 		&lt;li&gt;&lt;a href="#&#x41B;" &gt;&#x41B; &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 		&lt;li&gt;&lt;a href="#&#x441;&#x442;&#x438;&#x445;&#x438;" &gt;&#x441;&#x442;&#x438;&#x445;&#x438; &lt;span&gt;4&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 		&lt;li&gt;&lt;a href="#&#x432;&#x438;&#x434;&#x435;&#x43E;" &gt;&#x432;&#x438;&#x434;&#x435;&#x43E; &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -525,6 +560,9 @@ $('#infoTab a').click(function (e) {
 &lt;div class="tab-content"&gt;
 &lt;br&gt;
 &lt;br&gt;
+	&lt;div class="tab-pane" id="&#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x44F;"&gt;
+	    &lt;li&gt;&lt;a href="/posts/2014-06-24-long-term_solutions"&gt;&#x414;&#x43B;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x440;&#x435;&#x448;&#x435;&#x43D;&#x438;&#x44F;&lt;/a&gt;&lt;/li&gt;
+	&lt;/div&gt;
 	&lt;div class="tab-pane" id="&#x41B;"&gt;
 	    &lt;li&gt;&lt;a href="/posts/2014-02-25-separation"&gt;1&#x43B;&#x443;&#x43A;&#x430;&lt;/a&gt;&lt;/li&gt;
 	    &lt;li&gt;&lt;a href="/posts/2014-02-18-noone"&gt;&#x412;&#x438;&#x434;&#x438;&#x43C;&#x43E;&lt;/a&gt;&lt;/li&gt;
@@ -566,6 +604,39 @@ $('#infoTab a').click(function (e) {
 
 	}else $('#tagTab a:first').tab('show');
 &lt;/script&gt;
+</description>
+    </item>
+    <item>
+      <title>&#x427;&#x435;&#x440;&#x43D;&#x43E;&#x432;&#x438;&#x43A;&#x438;</title>
+      <link>/draft</link>
+      <description>	&lt;div class="draft col-md-4" &gt;
+	  	&lt;h4 class="title" &gt;
+	  		&lt;a href="/draft/2014-03-09-i-he"&gt;He&amp;amp;I&lt;/a&gt; 
+	  		&lt;span class="date right"&gt;2014-03-09&lt;/span&gt;
+		&lt;/h4&gt;
+
+		&lt;div &gt;
+		  &#x41E;&#x43D; &#x438; &#x44F;
+		&lt;/div &gt;
+
+		&lt;div class="more" &gt;
+	    	&lt;a href="/draft/2014-03-09-i-he" class="btn btn-small"&gt;read more...&lt;/a&gt;
+	  	&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;div class="draft col-md-4" &gt;
+	  	&lt;h4 class="title" &gt;
+	  		&lt;a href="/draft/2014-03-09-hate"&gt;Parting&lt;/a&gt; 
+	  		&lt;span class="date right"&gt;2014-03-09&lt;/span&gt;
+		&lt;/h4&gt;
+
+		&lt;div &gt;
+		  &#x41D;&#x435;&#x43D;&#x430;&#x432;&#x438;&#x436;&#x443; &#x440;&#x430;&#x441;&#x441;&#x442;&#x430;&#x432;&#x430;&#x43D;&#x438;&#x44F;
+		&lt;/div &gt;
+
+		&lt;div class="more" &gt;
+	    	&lt;a href="/draft/2014-03-09-hate" class="btn btn-small"&gt;read more...&lt;/a&gt;
+	  	&lt;/div&gt;
+		&lt;/div&gt;
 </description>
     </item>
   </channel>

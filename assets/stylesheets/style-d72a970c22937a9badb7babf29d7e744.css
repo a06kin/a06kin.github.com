@@ -61,6 +61,15 @@ body {
   width: 300px;
 }
 
+.draft {
+  overflow: hidden;
+  background-color: white;
+  border: 1px #eee solid;
+  margin: 5px;
+  padding: 15px;
+  width: 300px;
+}
+
 .cropImg{
 
 }
