@@ -611,6 +611,20 @@ $('#infoTab a').click(function (e) {
       <link>/draft</link>
       <description>	&lt;div class="draft col-md-4" &gt;
 	  	&lt;h4 class="title" &gt;
+	  		&lt;a href="/draft/2014-06-25-j_d"&gt;J_D&lt;/a&gt; 
+	  		&lt;span class="date right"&gt;2014-06-21&lt;/span&gt;
+		&lt;/h4&gt;
+
+		&lt;div &gt;
+		  &#x41F;&#x43E;&#x441;&#x432;&#x44F;&#x449;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x42E;, &#x438; &#x435;&#x451; &#x436;&#x435;&#x43B;&#x430;&#x43D;&#x438;&#x44E; &#x434;&#x432;&#x438;&#x433;&#x430;&#x442;&#x44C;&#x441;&#x44F; &#x43A;&#x440;&#x430;&#x441;&#x438;&#x432;&#x43E;
+		&lt;/div &gt;
+
+		&lt;div class="more" &gt;
+	    	&lt;a href="/draft/2014-06-25-j_d" class="btn btn-small"&gt;read more...&lt;/a&gt;
+	  	&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;div class="draft col-md-4" &gt;
+	  	&lt;h4 class="title" &gt;
 	  		&lt;a href="/draft/2014-03-09-i-he"&gt;He&amp;amp;I&lt;/a&gt; 
 	  		&lt;span class="date right"&gt;2014-03-09&lt;/span&gt;
 		&lt;/h4&gt;
